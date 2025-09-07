@@ -1,2 +1,1 @@
-# beginning-bioinformatics
-Beginning bioinformatics course code 
+Nishant Nitin Kadam + 1002263865 + BIOL5340-001
